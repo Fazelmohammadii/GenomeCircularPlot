@@ -108,4 +108,4 @@ For questions or assistance, contact:
 
 ===========================================
 # Thank you for using the Genome Circular Plot Visualization Tool!
-###########################################
+
