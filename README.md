@@ -1,9 +1,10 @@
 
 # Genome Circular Plot Visualization Tool #
-[DALL·E 2024-11-27 16.11.59 - A whimsical illustration depicting a group of anthropomorphic viruses collaboratively studying a circular graph. The graph represents a viral genome w.webm](https://github.com/user-attachments/assets/524a8428-e6f4-4724-b12c-b5eeca33be3c)
+![DALL·E 2024-11-27 16 11 59 - A whimsical illustration depicting a group of anthropomorphic viruses collaboratively studying a circular graph  The graph represents a viral genome w](https://github.com/user-attachments/assets/11a9cfc9-327a-4843-8ff8-a17460690d40)
 
 
 ===========================================
+
 This repository provides a script for creating high-quality circular genome plots using the R programming language. The plots include genomic features, functional annotations, and insertion points.
 
 This script has been developed as part of scientific research on oncolytic viruses, aiming to represent their genomic features and functional annotations. DOI: https://doi.org/10.1038/s41551-024-01259-7
