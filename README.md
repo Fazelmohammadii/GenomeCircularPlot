@@ -48,8 +48,8 @@ BiocManager::install("ComplexHeatmap")
 ## Instructions:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/username/genome-circular-plot.git
-   cd genome-circular-plot
+   git clone https://github.com/Fazelmohammadii/GenomeCircularPlot.git
+   cd GenomeCircularPlot
    ```
 
 2. **Prepare Your Data:**
