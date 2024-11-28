@@ -1,9 +1,15 @@
 
-###########################################
 # Genome Circular Plot Visualization Tool #
-###########################################
+[DALL·E 2024-11-27 16.11.59 - A whimsical illustration depicting a group of anthropomorphic viruses collaboratively studying a circular graph. The graph represents a viral genome w.webm](https://github.com/user-attachments/assets/524a8428-e6f4-4724-b12c-b5eeca33be3c)
 
-This repository provides an R-based tool for visualizing genomic data as a circular plot. The tool is designed to display genomic features, functional categories, and insertion points in a visually intuitive manner.
+
+===========================================
+This repository provides a script for creating high-quality circular genome plots using the R programming language. The plots include genomic features, functional annotations, and insertion points.
+
+This script has been developed as part of scientific research on oncolytic viruses, aiming to represent their genomic features and functional annotations. DOI: https://doi.org/10.1038/s41551-024-01259-7
+
+## Data Source and Preparation
+The genome features data frame can be exported directly from SnapGene, a tool designed for visualizing and analyzing genome data. This software simplifies the preparation of genomic feature files, which are required as input for this script.
 
 ===========================================
 ## Features:
@@ -96,7 +102,7 @@ BiocManager::install("ComplexHeatmap")
 ===========================================
 ## Support:
 For questions or assistance, contact:
-**Fazel**
+**Fazel Mohammadi**
 📧 Email: fazel.mo.610@gmail.com
 
 ===========================================
