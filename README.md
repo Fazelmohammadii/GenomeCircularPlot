@@ -7,7 +7,7 @@
 
 This repository provides a script for creating high-quality circular genome plots using the R programming language. The plots include genomic features, functional annotations, and insertion points.
 
-This script has been developed as part of scientific research on oncolytic viruses, aiming to represent their genomic features and functional annotations. DOI: https://doi.org/10.1038/s41551-024-01259-7
+This script has been developed as part of scientific research, aiming to represent the genomic features and functional annotations.
 
 ## Data Source and Preparation
 The genome features data frame can be exported directly from SnapGene, a tool designed for visualizing and analyzing genome data. This software simplifies the preparation of genomic feature files, which are required as input for this script.
